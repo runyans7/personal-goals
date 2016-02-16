@@ -3,7 +3,7 @@ Personal Goals
 
 ## To Do This Week
 - [ ] Finish the Learn.co Flatiron store lab
-- [ ] Blog post on routing ins Rails
+- [ ] Blog post on routing in Rails
 - [ ] Brainstorm ideas of Learn.co Rails assessment project
 
 ## Next Week
